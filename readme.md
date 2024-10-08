@@ -36,3 +36,8 @@ Hauntings in the Hills: Rhyolite, Nevada
 Founded in 1904, Rhyolite, Nevada, was once a thriving community with a population of 100,000. By 1924, however, the town’s inhabitants had moved or passed away, giving Rhyolite the distinction of being a ghost town. This may have been due to the financial panic of 1907, which led to mines closing and banks failing.
 
 Some visitors who have toured what remains of Rhyolite have reported ghostly encounters with the town’s past residents.
+
+endings
+    : found by gov. casino nuked to all hell (good ending)
+    : not found, monsters go on murdous rampage
+    
